@@ -35,7 +35,6 @@ pequenas ferramentas bem testadas.
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisvictor2000)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:luisvictorsilva00@outlook.com)
 
 ---
